@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: center;
+}
+#colorfullcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    height: 50vh;
+    width: 50vw;
+}
+.circlecontainer {
+    border-radius: 50%;
+    position: absolute;
+}
+.legolas {
+    display: flex;
+    justify-content: center;
+}
